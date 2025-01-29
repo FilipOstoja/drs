@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy>=1.4
+databases
+aiomysql
+python-multipart
+pyjwt
+python-dotenv
+cryptography
+mysql-connector-python
+argon2-cffi
